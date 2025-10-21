@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to top, #7A7978, #87CBAC, #90FFDC, #8DE4FF, #8AC4FF);
+    background-attachment: fixed;
+    margin: auto;
+    text-align: justify ;
+}
